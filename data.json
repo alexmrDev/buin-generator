@@ -1,0 +1,26 @@
+{
+  "data": {
+    "isbudget": true,
+    "lang": "es",
+    "id": "000-00",
+    "company": {
+      "name": "ALEXMRDEV",
+      "contact": "...@gmail.com"
+    },
+    "customer": "EXAMPLE",
+    "date": null,
+    "price": {
+      "DESIGN": 200,
+      "FRONT-END": 100,
+      "BACK-END": 100,
+      "CODE LICENSE": 100,
+      "HOURS VALUE": 50
+    },
+    "annual": {
+      "HOSTING MANAGEMENT": 100,
+      "HOSTING SERVICE": 50,
+      "DOMAIN": 25,
+      "SSL": 0
+    }
+  }
+}
